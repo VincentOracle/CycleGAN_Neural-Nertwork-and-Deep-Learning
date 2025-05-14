@@ -1,1 +1,1 @@
-Cycle Generative Adversarial Network
+Cycle Generative Adversarial Networks and DL
